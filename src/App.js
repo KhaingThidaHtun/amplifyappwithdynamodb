@@ -6,6 +6,7 @@ function App() {
       <header className="App-header">
         <p>
           This is react project.
+          Updates the test.
         </p>
         
       </header>
